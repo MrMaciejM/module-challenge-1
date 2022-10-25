@@ -38,4 +38,4 @@ In this example I am demonstrating how I have consolidated and cleaned up some o
 
 ## Link To The Deployed Application
 
-(https://mrmaciejm.github.io/module-challenge-1/)
+https://mrmaciejm.github.io/module-challenge-1/
